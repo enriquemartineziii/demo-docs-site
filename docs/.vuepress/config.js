@@ -30,6 +30,5 @@ export default defineUserConfig({
   title: 'Demo Docs Site',
   description: 'A simple demo documentation site built with VuePress',
 
-  // Uncomment and set this when deploying to GitHub Pages
-  // base: '/your-repo-name/',
+  base: '/demo-docs-site/',
 })
