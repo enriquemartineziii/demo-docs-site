@@ -47,3 +47,5 @@ sidebar: {
 ## Examples
 
 See the [Getting Started](/guide/getting-started.html) guide for practical examples.
+
+For CLI commands, check out the [CLI Documentation](/api/command-line.html).

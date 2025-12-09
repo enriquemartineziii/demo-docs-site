@@ -34,7 +34,7 @@ More content here.
 
 Edit the `.vuepress/config.js` file to customize your site:
 
-- Site title and description
+- Site tittle and description
 - Navigation bar
 - Sidebar structure
 - Theme settings
@@ -56,3 +56,5 @@ npm run docs:build
 ```
 
 The built files will be in `docs/.vuepress/dist`.
+
+For more advanced configuration options, see the [Configuration Reference](/guide/config-reference.html).
