@@ -11,6 +11,7 @@ cd docs/.vuepress/dist
 
 # create a new git repository in the dist folder
 git init
+git branch -m master main
 git add -A
 git commit -m 'deploy'
 
