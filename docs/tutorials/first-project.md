@@ -14,6 +14,10 @@ In this tutorial, you'll create a complete documentation site with:
 
 **Estimated time:** 30 minutes
 
+## Prerequisites
+
+<SystemRequirements />
+
 ## Step 1: Create Project Directory
 
 Create a new directory for your project:
@@ -37,9 +41,7 @@ This creates a `package.json` file with default settings.
 
 Install VuePress as a dev dependency:
 
-```bash
-npm install -D vuepress@next
-```
+<InstallCommand package="vuepress@next" />
 
 Wait for the installation to complete. This may take a few minutes.
 

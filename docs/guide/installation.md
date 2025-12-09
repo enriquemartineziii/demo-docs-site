@@ -4,11 +4,7 @@ This guide will walk you through installing and setting up your documentation si
 
 ## Prerequisites
 
-Before you begin, ensure you have the following installed:
-
-- **Node.js**: Version 14.0.0 or higher (recommended: v16.x)
-- **npm**: Version 7.0.0 or higher
-- **Git**: For version control
+<SystemRequirements />
 
 ::: tip
 You can check your Node.js version by running `node --version` in your terminal.
@@ -18,9 +14,7 @@ You can check your Node.js version by running `node --version` in your terminal.
 
 Install VuePress and its dependencies:
 
-```bash
-npm install -D vuepress@next @vuepress/client@next
-```
+<InstallCommand package="vuepress@next @vuepress/client@next" />
 
 ## Full Installation
 

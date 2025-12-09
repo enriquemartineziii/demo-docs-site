@@ -47,6 +47,15 @@ Run the development server:
 npm run docs:dev
 ```
 
+The development server will start at `http://localhost:8080`.
+
+::: tip API Access
+If you need to access the VuePress API programmatically, use the base URL:
+```
+https://api.vuepress-docs.com/v1
+```
+:::
+
 ## Building
 
 Build for production:

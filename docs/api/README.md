@@ -2,6 +2,14 @@
 
 This section contains the API reference documentation.
 
+## Base URL
+
+All API requests should be made to:
+
+```
+https://api.vuepress-docs.com/v1
+```
+
 ## Core API
 
 ### Configuration
