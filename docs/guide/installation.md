@@ -61,9 +61,9 @@ vuepress/2.0.0-rc.26
 
 ## Next Steps
 
-- [Configuration](/guide/configuration.html) - Configure your site
-- [Getting Started](/guide/getting-started.html) - Create your first page
-- [Troubleshooting](/guide/troubleshoting.html) - Common issues and solutions
+- [Configuration](/guide/configuration.md) - Configure your site
+- [Getting Started](/guide/getting-started.md) - Create your first page
+- [Troubleshooting](/guide/troubleshoting.md) - Common issues and solutions
 
 ## System Requirements
 

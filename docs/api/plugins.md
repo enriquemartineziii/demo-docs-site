@@ -370,5 +370,5 @@ export default {
 ## See Also
 
 - [Official Plugin List](https://v2.vuepress.vuejs.org/reference/plugin/)
-- [Plugin Development Guide](/tutorials/plugin-development.html)
-- [Core API Reference](/api/core.html)
+- [Plugin Development Guide](/tutorials/plugin-development.md)
+- [Core API Reference](/api/core.md)

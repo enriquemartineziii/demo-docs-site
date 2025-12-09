@@ -151,6 +151,6 @@ export default defineUserConfig({
 
 ## See Also
 
-- [Advanced Usage](/guide/advanced-usage.html)
+- [Advanced Usage](/guide/advanced-usage.md)
 - [API Reference](/api/)
-- [Deployment Guide](/tutorials/deployment.html)
+- [Deployment Guide](/tutorials/deployment.md)

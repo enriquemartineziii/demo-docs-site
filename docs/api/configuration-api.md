@@ -323,6 +323,6 @@ export default defineUserConfig({
 
 ## See Also
 
-- [Theme Configuration](/guide/configuration.html)
-- [Plugin Development](/api/plugins.html)
-- [CLI Reference](/api/cli.html)
+- [Theme Configuration](/guide/configuration.md)
+- [Plugin Development](/api/plugins.md)
+- [CLI Reference](/api/cli.md)

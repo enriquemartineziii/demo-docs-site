@@ -35,7 +35,7 @@ Yes! While VuePress excels at documentation, it can be used for blogs, portfolio
 npm install -D vuepress@next
 ```
 
-See the [Installation Guide](/guide/installation.html) for detailed instructions.
+See the [Installation Guide](/guide/installation.md) for detailed instructions.
 
 ### Can I use yarn or pnpm instead of npm?
 
@@ -72,7 +72,7 @@ $accentColor: #3eaf7c;
 $textColor: #2c3e50;
 ```
 
-See [Custom Theme](/tutorials/custom-theme.html) for more details.
+See [Custom Theme](/tutorials/custom-theme.md) for more details.
 
 ### Can I use custom fonts?
 
@@ -161,7 +161,7 @@ Built files will be in `docs/.vuepress/dist/`.
 
 ### Can I deploy to GitHub Pages?
 
-Yes! See our [Deployment Guide](/tutorials/deployment.html) for step-by-step instructions.
+Yes! See our [Deployment Guide](/tutorials/deployment.md) for step-by-step instructions.
 
 ### What about other hosting platforms?
 
@@ -277,7 +277,7 @@ Ensure you're using the correct link format:
 
 ```markdown
 <!-- Correct -->
-[Link](/guide/page.html)
+[Link](/guide/page.md)
 
 <!-- Incorrect -->
 [Link](/guide/page)

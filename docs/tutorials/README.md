@@ -6,25 +6,25 @@ Step-by-step tutorials to help you master VuePress documentation.
 
 New to VuePress? Start here:
 
-- [Your First Project](/tutorials/first-project.html) - Create your first documentation site
-- [Deploying to GitHub Pages](/tutorials/deployment.html) - Publish your site online
-- [Custom Theme](/tutorials/custom-theme.html) - Customize the look and feel
+- [Your First Project](/tutorials/first-project.md) - Create your first documentation site
+- [Deploying to GitHub Pages](/tutorials/deployment.md) - Publish your site online
+- [Custom Theme](/tutorials/custom-theme.md) - Customize the look and feel
 
 ## Intermediate
 
 Ready for more advanced topics?
 
-- [Adding Search](/tutorials/adding-search.html) - Implement site search
-- [Multi-language Support](/tutorials/i18n.html) - Create multilingual docs
-- [Custom Components](/tutorials/custom-components.html) - Build Vue components
+- [Adding Search](/tutorials/adding-search.md) - Implement site search
+- [Multi-language Support](/tutorials/i18n.md) - Create multilingual docs
+- [Custom Components](/tutorials/custom-components.md) - Build Vue components
 
 ## Advanced
 
 Take your docs to the next level:
 
-- [Plugin Development](/tutorials/plugin-development.html) - Create custom plugins
-- [Theme Development](/tutorials/theme-development.html) - Build custom themes
-- [CI/CD Integration](/tutorials/ci-cd.html) - Automate your workflow
+- [Plugin Development](/tutorials/plugin-development.md) - Create custom plugins
+- [Theme Development](/tutorials/theme-development.md) - Build custom themes
+- [CI/CD Integration](/tutorials/ci-cd.md) - Automate your workflow
 
 ## Use Cases
 

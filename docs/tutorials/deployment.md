@@ -191,6 +191,6 @@ To use a custom domain with GitHub Pages:
 
 ## Next Steps
 
-- [Set up CI/CD](/tutorials/ci-cd.html)
+- [Set up CI/CD](/tutorials/ci-cd.md)
 - [Configure custom domain](https://docs.github.com/pages/custom-domains)
-- [Monitor site analytics](/tutorials/analytics.html)
+- [Monitor site analytics](/tutorials/analytics.md)

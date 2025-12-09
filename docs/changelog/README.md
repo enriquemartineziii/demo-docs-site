@@ -61,7 +61,7 @@ All notable changes to this documentation site.
 - Old markdown extensions
 
 ### Migration
-See the [Migration Guide](/guide/migration.html) for upgrading from v1.x.
+See the [Migration Guide](/guide/migration.md) for upgrading from v1.x.
 
 ## [1.9.2] - 2024-09-15
 
@@ -172,7 +172,7 @@ npm update vuepress @vuepress/client @vuepress/theme-default
 
 ### From 1.x to 2.x
 
-See the complete [Migration Guide](/guide/migration.html).
+See the complete [Migration Guide](/guide/migration.md).
 
 Key changes:
 - New configuration format

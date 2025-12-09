@@ -57,4 +57,4 @@ npm run docs:build
 
 The built files will be in `docs/.vuepress/dist`.
 
-For more advanced configuration options, see the [Configuration Reference](/guide/config-reference.html).
+For more advanced configuration options, see the [Configuration Reference](/guide/config-reference.md).

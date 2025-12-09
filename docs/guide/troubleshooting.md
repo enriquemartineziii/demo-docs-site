@@ -89,7 +89,7 @@ npm run docs:dev -- --port 8081
 
 ```markdown
 <!-- Correct -->
-[Link](/guide/configuration.html)
+[Link](/guide/configuration.md)
 [Link](./configuration.html)
 
 <!-- Incorrect -->

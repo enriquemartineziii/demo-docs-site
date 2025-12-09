@@ -201,6 +201,6 @@ Add custom styles:
 
 ## See Also
 
-- [Configuration](/guide/configuration.html)
-- [Plugin Development](/api/plugins.html)
-- [Theme Customization](/tutorials/custom-theme.html)
+- [Configuration](/guide/configuration.md)
+- [Plugin Development](/api/plugins.md)
+- [Theme Customization](/tutorials/custom-theme.md)

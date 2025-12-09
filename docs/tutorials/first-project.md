@@ -181,9 +181,9 @@ The built files will be in `docs/.vuepress/dist/`.
 
 Now that you have a basic site running:
 
-1. [Customize the theme](/tutorials/custom-theme.html)
-2. [Deploy to GitHub Pages](/tutorials/deployment.html)
-3. [Add advanced features](/guide/advanced-usage.html)
+1. [Customize the theme](/tutorials/custom-theme.md)
+2. [Deploy to GitHub Pages](/tutorials/deployment.md)
+3. [Add advanced features](/guide/advanced-usage.md)
 
 ## Troubleshooting
 

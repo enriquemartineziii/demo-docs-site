@@ -312,6 +312,6 @@ vuepress build docs --clean-cache --clean-temp
 
 ## See Also
 
-- [Configuration API](/api/configuration-api.html)
-- [Plugin API](/api/plugins.html)
-- [Troubleshooting Guide](/guide/troubleshooting.html)
+- [Configuration API](/api/configuration-api.md)
+- [Plugin API](/api/plugins.md)
+- [Troubleshooting Guide](/guide/troubleshooting.md)

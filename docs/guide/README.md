@@ -14,4 +14,4 @@ This guide will help you understand how to use this documentation site and its f
 
 ## Next Steps
 
-Check out the [Getting Started](/guide/getting-started.html) guide to learn more.
+Check out the [Getting Started](/guide/getting-started.md) guide to learn more.
