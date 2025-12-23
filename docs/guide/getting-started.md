@@ -34,7 +34,7 @@ More content here.
 
 Edit the `.vuepress/config.js` file to customize your site:
 
-- Site title and description
+- Site tittle and description
 - Navigation bar
 - Sidebar structure
 - Theme settings
